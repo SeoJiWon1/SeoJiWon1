@@ -1,6 +1,6 @@
 <div align = "center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Rounded&text=Ji-Won.S)
+  ![header](https://capsule-render.vercel.app/api?type=Rounded&text=Ji_Won.S)
 </div>
 
 <div align="center">
